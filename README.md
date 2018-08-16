@@ -1,6 +1,7 @@
 # Chix Pix API
 
 RESTful API backend based on Node.js and Express.js for my [Chix android app](https://github.com/Mkryglikov/chix_android_app)
+
 Part of my graduation work on the theme "Developing an Android application for the company". 
 
 ## License
